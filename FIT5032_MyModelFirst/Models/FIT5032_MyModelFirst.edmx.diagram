@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b0eef8dce5ad4702a0babf1622713583" Name="Diagram1" >
+        <EntityTypeShape EntityType="FIT5032_MyModelFirst.Student" Width="1.5" PointX="5.5" PointY="1.375" />
+        <EntityTypeShape EntityType="FIT5032_MyModelFirst.Unit" Width="1.5" PointX="8.5" PointY="1.75" />
+        <AssociationConnector Association="FIT5032_MyModelFirst.StudentUnit" ManuallyRouted="true" >
+          <ConnectorPoint PointX="7" PointY="2.4564925130208337" />
+          <ConnectorPoint PointX="7.16335" PointY="2.4564925130208337" />
+          <ConnectorPoint PointX="7.16335" PointY="2.7481591064234578" />
+          <ConnectorPoint PointX="7.6408331104367972" PointY="2.7481591064234578" />
+          <ConnectorPoint PointX="7.6408331104367972" PointY="1.9044090198104584" />
+          <ConnectorPoint PointX="7.8383330955356367" PointY="1.9044090198104584" />
+          <ConnectorPoint PointX="7.8383330955356367" PointY="3.1023257724692428" />
+          <ConnectorPoint PointX="8.28164992152676" PointY="3.1023257724692428" />
+          <ConnectorPoint PointX="8.28164992152676" PointY="2.4564925130208337" />
+          <ConnectorPoint PointX="8.5" PointY="2.4564925130208337" />
+        </AssociationConnector>
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
